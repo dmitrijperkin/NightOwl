@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_schedule"
+        android:icon="@android:drawable/ic_menu_today"
+        android:title="Расписание" />
+
+    <item
+        android:id="@+id/nav_map"
+        android:icon="@android:drawable/ic_dialog_map"
+        android:title="Карта" />
+
+    <item
+        android:id="@+id/nav_qr"
+        android:icon="@android:drawable/ic_menu_camera"
+        android:title="QR" />
+    <item
+        android:id="@+id/nav_groups"
+        android:icon="@drawable/ic_groups"
+        android:title="Группы" />
+
+</menu>
